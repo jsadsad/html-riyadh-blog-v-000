@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: black center no-repeat;
+  background: black;
   background-size: cover;
   background-attachment: fixed;
   font-family: Arial, sans-serif;
